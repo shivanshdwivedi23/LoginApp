@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260188705346",
+    "project_id": "loginapp-bde8d",
+    "storage_bucket": "loginapp-bde8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260188705346:android:18f5f5c84d13b42c0fd3db",
+        "android_client_info": {
+          "package_name": "com.infigeek.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260188705346-dh8kki29ijmokcsi15vuoq6nghf7jj60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_kSyD0XgDrG0WLsZuUfVNnwQxLrvlNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260188705346-dh8kki29ijmokcsi15vuoq6nghf7jj60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
